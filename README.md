@@ -6,7 +6,7 @@
 🌐 HTML
 🎨 CSS
 💻 JavaScript
-🔄 React.js, Angular.js, Vue.js
+🔄 React.js
 📱 Responsive Design
 🔧 Git & GitHub
 🎯 UI/UX Basics
