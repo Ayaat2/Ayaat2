@@ -46,7 +46,3 @@ I'm currently focused on strengthening my fundamentals and building real-world p
 </p>
 
 
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaat2&layout=compact" />
-</p>
